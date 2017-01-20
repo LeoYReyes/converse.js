@@ -6,6 +6,7 @@
 - #755: create composer.json to add this project in packagist.org [fabiomontefuscolo]
 - Bugfix. Cancel button shown while registration form is being fetched wasn't working
   properly. [jcbrand]
+- #758: Bugfix. Render all resize drag handles for ChatRoomView.
 
 ## 2.0.4 (2016-12-13)
 - #737: Bugfix. Translations weren't being applied. [jcbrand]
