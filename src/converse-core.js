@@ -1851,6 +1851,7 @@
                 url:  this.prebind_url,
                 type: 'GET',
                 dataType: "json",
+                cache: false,
                 success: function (response) {
                     that.connection.attach(
                             response.jid,
